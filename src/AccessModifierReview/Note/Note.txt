@@ -1,0 +1,5 @@
+Access Modifiers:
+    public: lets you reach from everywhere
+    protected: can be reached from everywhere if you have inheritance relationship
+    default: you need to be in the same package to reach methods/attributes
+    private: just from the class itself
